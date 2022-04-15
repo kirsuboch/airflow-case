@@ -13,7 +13,7 @@
 - `http://localhost:8080/tree?dag_id=BTC_Rate_DAG`
 
 ## Проверка
-- `http://localhost:5050/browser/`
+- `http://localhost:5050/browser/` `User: pgadmin@pgadmin.com; Password: pgadmin`
 - `User ID=airflow; Password=airflow; Host=postgres-out; Port=5432; Database=airflow-out;`
 - в таблицу `out_table` выгражаются записи
 ```
